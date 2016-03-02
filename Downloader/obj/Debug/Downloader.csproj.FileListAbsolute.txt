@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\bin\Debug\Downloader.exe.config
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Users\ivy\Documents\GitHub\Downloader\Downloader\obj\Debug\Downloader.pdb
